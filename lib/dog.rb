@@ -10,7 +10,7 @@ class Dog
   end
 end 
 
-fido= Dog.new("fido")
+fido= Dog.new("Fido")
 snoopy= Dog.new("Snoopy")
 lassie= Dog.new("Lassie")
 puts dog1.name
