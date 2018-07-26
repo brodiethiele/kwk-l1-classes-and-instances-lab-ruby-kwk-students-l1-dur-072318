@@ -1,6 +1,9 @@
 # dog.rb
 
 class Dog
+  def name
+    @name
+  end
 end 
 
 dog1= Dog.new("Fido")
